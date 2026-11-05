@@ -1,0 +1,15 @@
+node_modules
+dist
+src-tauri/target
+src-tauri/gen
+*.local
+.DS_Store
+
+# IDE / 编辑器
+.idea/
+.vscode/
+*.swp
+
+# 系统垃圾文件
+Thumbs.db
+desktop.ini
